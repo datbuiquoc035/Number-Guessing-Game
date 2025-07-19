@@ -1,0 +1,8 @@
+user: Test
+games_played: 10
+best_game: 15
+
+user: Dat
+games_played: 2
+best_game: 19
+
